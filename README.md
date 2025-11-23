@@ -17,5 +17,6 @@ O principal objetivo deste projeto é eliminar a navegação complexa, atuando c
   - Google Gemini: A inspiração e o conhecimento sobre a integração de IA no fluxo de trabalho foram aplicados para desenvolver com precisão um código limpo e eficiente.
 
 🎓 Agradecimentos Especiais (Imersão Dev)
+
 Este projeto foi desenvolvido como resultado e aplicação prática dos conhecimentos adquiridos durante a Imersão Dev com Google Gemini da Alura. Agradeço imensamente a Alura e o Google pela oportunidade de mergulhar no universo do desenvolvimento web e na integração de Inteligência Artificial. 
 Um agradecimento especial aos instrutores Ahirton Lopes, Guilherme Lima e Mônica Hillman por ministrarem as quatro aulas essenciais, ampliando nossos conhecimentos e nos guiando para alcançar este resultado de projeto.
