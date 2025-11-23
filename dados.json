@@ -3,7 +3,7 @@
     "teamName": "McLaren",
     "teamLink": "https://www.formula1.com/en/teams/mclaren",
     "teamClass": "mclaren",
-    "carImage": "img/mclaren-car.avif",
+    "carImage": "mclaren-car.avif",
     "drivers": [
       {
         "name": "Oscar PIASTRI",
@@ -19,7 +19,7 @@
     "teamName": "Mercedes",
     "teamLink": "https://www.formula1.com/en/teams/mercedes",
     "teamClass": "mercedes",
-    "carImage": "img/mercedes-car.avif",
+    "carImage": "mercedes-car.avif",
     "drivers": [
       {
         "name": "George RUSSELL",
@@ -35,7 +35,7 @@
     "teamName": "Red Bull Racing",
     "teamLink": "https://www.formula1.com/en/teams/red-bull-racing",
     "teamClass": "redbull",
-    "carImage": "img/redbull-car.avif",
+    "carImage": "redbull-car.avif",
     "drivers": [
       {
         "name": "Max VERSTAPPEN",
@@ -51,7 +51,7 @@
     "teamName": "Ferrari",
     "teamLink": "https://www.formula1.com/en/teams/ferrari",
     "teamClass": "ferrari",
-    "carImage": "img/ferrari-car.avif",
+    "carImage": "ferrari-car.avif",
     "drivers": [
       {
         "name": "Charles LECLERC",
@@ -67,7 +67,7 @@
     "teamName": "Williams",
     "teamLink": "https://www.formula1.com/en/teams/williams",
     "teamClass": "williams",
-    "carImage": "img/williams-car.avif",
+    "carImage": "williams-car.avif",
     "drivers": [
       {
         "name": "Alexander ALBON",
@@ -83,7 +83,7 @@
     "teamName": "Racing Bulls",
     "teamLink": "https://www.formula1.com/en/teams/visa-cash-app-rb",
     "teamClass": "racingbulls",
-    "carImage": "img/racingbulls-car.avif",
+    "carImage": "racingbulls-car.avif",
     "drivers": [
       {
         "name": "Liam LAWSON",
@@ -99,7 +99,7 @@
     "teamName": "Aston Martin",
     "teamLink": "https://www.formula1.com/en/teams/aston-martin",
     "teamClass": "astonmartin",
-    "carImage": "img/astonmartin-car.avif",
+    "carImage": "astonmartin-car.avif",
     "drivers": [
       {
         "name": "Lance STROLL",
@@ -115,7 +115,7 @@
     "teamName": "Haas",
     "teamLink": "https://www.formula1.com/en/teams/haas",
     "teamClass": "haas",
-    "carImage": "img/haas-car.avif",
+    "carImage": "haas-car.avif",
     "drivers": [
       {
         "name": "Esteban OCON",
@@ -131,7 +131,7 @@
     "teamName": "Kick Sauber",
     "teamLink": "https://www.formula1.com/en/teams/kick-sauber",
     "teamClass": "kicksauber",
-    "carImage": "img/sauber-car.avif",
+    "carImage": "sauber-car.avif",
     "drivers": [
       {
         "name": "Nico HULKENBERG",
@@ -147,7 +147,7 @@
     "teamName": "Alpine",
     "teamLink": "https://www.formula1.com/en/teams/alpine",
     "teamClass": "alpine",
-    "carImage": "img/alpine-car.avif",
+    "carImage": "alpine-car.avif",
     "drivers": [
       {
         "name": "Pierre GASLY",
@@ -159,4 +159,5 @@
       }
     ]
   }
+
 ]
