@@ -1,5 +1,7 @@
 🏁 F1 Teams Club
 
+https://lg-vilela.github.io/f1teams-club/
+
 O F1 Teams Club é um website de referência rápida e focado, projetado para fornecer aos entusiastas da Fórmula 1 um acesso imediato e direto às informações biográficas oficiais da temporada 2025. Desenvolvido por Lucas Vilela, este projeto é uma aplicação prática de habilidades de desenvolvimento web, impulsionada pela paixão pessoal pelo esporte.
 O principal objetivo deste projeto é eliminar a navegação complexa, atuando como um portal centralizado que conecta o usuário instantaneamente às fontes de dados mais autoritativas.
 
