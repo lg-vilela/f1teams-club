@@ -75,6 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
         teamsLogosSection.style.display = 'block'; 
         clearButton.style.display = 'none'; 
         searchInput.focus(); 
+    } // <-- chave adicionada aqui para fechar clearSearch()
 
     function initializeApp() {
         fetch('dados.json')
@@ -99,4 +100,3 @@ document.addEventListener('DOMContentLoaded', () => {
     
     initializeApp();
 });
-
